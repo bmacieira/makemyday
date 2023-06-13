@@ -1,3 +1,3 @@
-# MAKE MY DAY
+# makemyday
 
-IF YOU DARE...
+If You Dare
